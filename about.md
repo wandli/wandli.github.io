@@ -6,9 +6,9 @@ permalink: /about/
 
 I am an undergraduate student at the School of Computer Science at [Fudan University](http://www.fudan.edu.cn/en/). I have been a research assistant in the [Mobile Systems and Networking (MSN) group](http://fudan-msn.weebly.com/) since 2018, supervised by [Prof. Yang Chen](https://chenyang03.wordpress.com/). I will be a graduate student of [Tsinghua-Berkeley Shenzhen Institute](http://www.tbsi.edu.cn/en/) this August, supervised by [Prof. Wai Kin (Victor) Chan](https://www.tbsi.edu.cn/en/index.php?s=/cms/148.html). I am especially interested in data mining, social networks, machine learning and deep learning.
 
-Here is my [full CV]( ).
+Here is my [full CV]( ).   
 
-***
+
 
 ## Publications
 
@@ -16,16 +16,15 @@ Here is my [full CV]( ).
 
 **Wanda Li**, Jianping Zheng
 
-<font color=gray size=3>Under major revision at IEEE Transactions on Information Forensics and Security.</font>
-
+Under major revision at IEEE Transactions on Information Forensics and Security.
 
 ##### Detecting Outstanding Users in Online Social Networks by Leveraging Deep Neural Networks  
 
 **Wanda Li**, Zhiwei Xu, Yi Sun, Qingyuan Gong, Yang Chen, Aaron Yi Ding, Xin Wang, Pan Hui
 
-<font color=gray size=3>Submitted to Special Interest Group on Information Retrieval(SIGIR'20).</font>
+Submitted to Special Interest Group on Information Retrieval(SIGIR'20).   
 
-***
+
 
 ## Selected Awards
 
