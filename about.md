@@ -8,6 +8,7 @@ I am an undergraduate student at the School of Computer Science at [Fudan Univer
 
 Here is my [full CV]( ).
 
+***
 
 ## Publications
 
@@ -24,7 +25,7 @@ Here is my [full CV]( ).
 
 <font color=gray size=3>Submitted to Special Interest Group on Information Retrieval(SIGIR'20).</font>
 
-
+***
 
 ## Selected Awards
 
