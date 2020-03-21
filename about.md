@@ -8,19 +8,23 @@ I am an undergraduate student at the School of Computer Science at [Fudan Univer
 
 Here is my [full CV]( ).
 
+
 ## Publications
 
 ##### Leet Usage and Its Effect on Password Security  
 
 **Wanda Li**, Jianping Zheng
 
-Under major revision at IEEE Transactions on Information Forensics and Security.
+<font color=gray size=3>Under major revision at IEEE Transactions on Information Forensics and Security.</font>
+
 
 ##### Detecting Outstanding Users in Online Social Networks by Leveraging Deep Neural Networks  
 
 **Wanda Li**, Zhiwei Xu, Yi Sun, Qingyuan Gong, Yang Chen, Aaron Yi Ding, Xin Wang, Pan Hui
 
-Submitted to Special Interest Group on Information Retrieval(SIGIR'20)
+<font color=gray size=3>Submitted to Special Interest Group on Information Retrieval(SIGIR'20).</font>
+
+
 
 ## Selected Awards
 
