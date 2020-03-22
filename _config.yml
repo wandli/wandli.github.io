@@ -1,13 +1,13 @@
 title: Wanda Li
 email: wdli10 AT outlook DOT com
-description: |
+description: |+
   Undergraduated student 
 
   School of Computer Science 
 
   Fudan University
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://wandli.github.io/about" # the base hostname & protocol for your site
+baseurl: "/about" # the subpath of your site, e.g. /blog
+url: "http://wandli.github.io/" # the base hostname & protocol for your site
 postCount: 5 # the number of posts on the "index" page
 
 # Build settings
