@@ -2,8 +2,17 @@
   <div id="header__content">
     <div id="header__info">
       <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
-      <p>{{site.description}}</p>
-      <img src="{{ site.baseurl }}/images/wanda.jpg" alt="Wanda is shy">
+      <div class="text-left" style="float: left">
+					<span>Undergraduate Student</span><br/>
+					<span>School of Computer Science</span><br/>
+					<span>Fudan University</span>
+				</div>
+				<div class="text-right" style="float: right">
+					<span>Room 806, Building 1, No. 1433 Cailun Road</span><br/>
+					<span>Shanghai, 201203, P.R.China</span><br/>
+					<span>jiayunzhang15 AT outlook DOT com</span><br/>
+
+      <img src="{{ site.baseurl }}/images/wanda.jpg" alt="opps! Wanda is shy">
     </div>
     <ul id="header__nav">
       <!--
@@ -11,7 +20,7 @@
       </li>
       <li><a href="{{ site.baseurl }}/archive" class="{% if page.url == '/archive/' %}active__link{% else %}{% endif %}">Archive</a></li>      
       -->
-      <li><a href="{{ site.baseurl }}/" class="{% if page.url == '/' %}active__link{% else %}{% endif %}">About</a></li>
+      <li><a href="{{ site.baseurl }}/about" class="{% if page.url == '/about/' %}active__link{% else %}{% endif %}">About</a></li>
 
     </ul>
   </div>
