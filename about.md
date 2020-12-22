@@ -22,6 +22,8 @@ To Appear: IEEE Transactions on Information Forensics and Security (TIFS).
 
 ##### OD-HyperNet: A Data-Driven Hyper-Network Model for Origin-Destination Matrices Estimation Using Partially Observed Data
 
+Yuxuan Xiu, **Wanda Li**, Wai Kin Victor Chan
+
 Proceedings of the 10th International Conference on Logistics, Informatics and Service Sciences (LISS '20)
 
 ##### Detecting Outstanding Users in Online Social Networks by Leveraging Deep Neural Networks  
