@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a first year master student at the Data Science and Information Technology Center of Tsinghua-Berkeley Shenzhen Institute ([Tsinghua-Berkeley Shenzhen Institute](http://www.tbsi.edu.cn/en/)). I am advised by Prof. [Yang Li](http://yangli-feasibility.com/home/). My research lies in data mining, social networks, machine learning and deep learning.
+I am a first year master student at the Data Science and Information Technology Center of Tsinghua-Berkeley Shenzhen Institute ([TBSI](http://www.tbsi.edu.cn/en/)). I am advised by Prof. [Yang Li](http://yangli-feasibility.com/home/). My research lies in data mining, social networks, machine learning and deep learning.
 Before joining THU, I received my B.S. (with honors) from School of Computer Science at Fudan University, where I was advised by Prof. [Yang Chen](https://chenyang03.wordpress.com/) and Prof. [Jianping Zeng](http://homepage.fudan.edu.cn/zengjp/). 
 
 Here is my [full CV]( ).   
