@@ -34,6 +34,21 @@ Under Major Revison: Transactions on Knowledge and Data Engineering (TKDE).
 
 <br />
 
+## Experience
+
+- **Tsinghua-Berkeley Shenzhen Institute.    Shenzhen, China**
+  - Research Assistant at the Intelligent Transportation and Logistics Systems group, advised by Prof. [Wai Kin (Victor) Chan](https://www.tbsi.edu.cn/en/index.php?s=/cms/148.html).   Sep 2019 - Sep 2020
+
+- **MicroSoft.   Shanghai, China**
+  - Customer Service and Support(CSS) Security group Intern.              Jan 2019 - March 2019
+
+- **Fudan University.   Shanghai, China**
+  - B.S. in Secrecy Policy and Management, School of Computer Science.          Sep 2016 – Jun 2020
+  - Research Assistant at the [Mobile Systems and Networking (MSN)](http://fudan-msn.weebly.com/) group, advised by Prof. [Yang Chen](https://chenyang03.wordpress.com/).  Oct 2019 – Jun 2020
+  - Research Assistant at the Network Security group, advised by Prof. [Jianping Zeng](http://homepage.fudan.edu.cn/zengjp/).           May 2018 – Sep 2019
+
+
+<br />
 
 ## Selected Awards
 
