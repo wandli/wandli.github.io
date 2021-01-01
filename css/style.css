@@ -1,0 +1,131 @@
+body {
+	margin: 0;
+	padding: 0;
+  background-image: url(../images/texture.jpg);
+  font-weight: 300;
+  font-size: 1.45em;
+}
+
+#page {
+  background-color: #ffffff;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  width: 1080px;
+  text-align: left;
+  border-left: 1px solid #f1f1f1;
+  border-right: 1px solid #f1f1f1;
+ }
+ 
+ #inner-page{
+    padding: 20px 26px 26px 26px;
+ }
+
+#main { 
+  border-bottom: 1px solid #d9d9d9;
+ }
+
+.container {
+  margin-bottom: 10%;
+  width: 1080px;
+}
+
+.row-thin {
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.text-thin {
+  font-weight: 380;
+}
+
+.header-thin {
+  font-weight: 300;
+  font-size: 15px;
+}
+
+.gray {
+  background-color: #F3F3F3;
+  margin-bottom: 1%;
+}
+
+.img-embeded {
+  width: 200;
+  height: 150;
+  margin: 8px 8px 8px 8px;
+}
+
+@media only screen and (max-width: 1000px) {
+  .flex-col {
+    display: none;
+  }
+}
+
+ul.my_table{
+	list-style:none;
+	margin: 0;
+	padding: 0 0 10px 15px;
+}
+
+li.my_item{
+	position: relative;
+	clear: both;
+}
+
+ul.my_detail{
+	margin: 0;
+	padding: 0 0 10px 15px;
+}
+
+li.my_item img{
+	float: left;
+	margin: 5px 10px 5px 5px;
+}
+
+li.my_item div{
+	padding:0;
+	margin: 0 0 0 125px;
+}
+
+li.my_item div p{
+	margin: 0;
+	padding: 5px 0 5px 0;
+}
+
+.shadow {
+	-moz-box-shadow: 0px 2px 8px #aaa;
+	-webkit-box-shadow: 0px 2px 8px #aaa;
+	box-shadow: 0px 2px 8px #aaa;
+	/* For IE 8 */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=90, Color='#aaaaaa')";
+	/* For IE 5.5 - 7 */
+	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=90, Color='#aaaaaa');
+}
+
+button.my_button {
+  padding: 0px 8px;
+  text-align: center;
+  background-color:white;
+  color: steelblue;
+  border: 1px solid steelblue;
+  border-radius:5px;
+  }
+button.my_button:hover {
+  background-color: steelblue;
+  color: white;
+  border: 1px solid white;
+}
+
+/*
+a{color:navy}
+a:hover{color:navy}
+*/
+
+.date {
+  color:brown;
+  float:right;
+}
+
+#main { 
+  border-bottom: 1px solid #d9d9d9;
+ }
